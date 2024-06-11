@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = Mobile App 001
+title = Surprise
 
 # (str) Package name
-package.name = mobileapp001
+package.name = SrFox
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+package.domain = org.Fox
 
 # (str) Source code where the main.py live
 source.dir = .
